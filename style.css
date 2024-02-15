@@ -13,7 +13,6 @@ body {
     gap: 100px;
     margin: 0;
     height: 100vh;
-
 }
 
 .darkbg {
@@ -48,6 +47,8 @@ ul {
 }
 
 .hero {
+
+
     display: flex;
     height: 150px;
     margin: 0px 100px;

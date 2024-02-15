@@ -1,0 +1,18 @@
+.info-box2 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+/* .info-box2 div {
+    width: 250px;
+    background-color: aquamarine;
+
+    display: flex;
+    justify-content: center;
+} */
+
+img {
+    display: flex;
+    flex: 1;
+    width: 100%;
+}
